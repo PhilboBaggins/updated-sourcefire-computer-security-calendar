@@ -67,8 +67,3 @@
     month-page(year, month-data)
   }
 }
-
-#let YEAR = "2026"
-#let data = toml("data.toml")
-
-#year-pages(YEAR, data)
