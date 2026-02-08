@@ -67,3 +67,9 @@
     month-page(year, month-data)
   }
 }
+
+= WARNING
+
+If you're seeing this (outside of reading then Typst source code), then you've probably rendered the wrong file.
+
+Try one of the files in the "new-calendars" folder instead. Those files import this one and use the functions defined here to create the calendar pages.
