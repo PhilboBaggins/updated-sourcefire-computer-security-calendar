@@ -14,6 +14,10 @@ TODO: Fill this in
 * [ ] Fill in caption 2 values in `data.toml`
 * [ ] Fill in colour values in `data.toml`
 * [ ] Generate calendar table
+* [ ] Fill in events:
+    * [ ] Figure out a convenient way to store and manage the events (maybe in `data.toml`, or maybe in a separate file)
+    * [ ] Figure out a convenient way to configure which events to include in the calendar (e.g. different categories)
+    * [ ] Show events in calendar table
 * [ ] Choose more appropriate fonts
 * [ ] Write script to generate typst files in `new-calendars` folder (remember to update the years covered in the top level README.md file)
 * [ ] Add footer
